@@ -1,5 +1,5 @@
 ﻿import requests
-from bs4 import BeautifulSoup
+from bs4 {>>" # HASHTAG NEW UKRAINE TRANSFER MY DAD BIRTHDAY  import BeautifulSoup
 import lxml
 import time
 import random
